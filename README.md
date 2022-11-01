@@ -1,7 +1,6 @@
-# Trabalho Realizado para prototipagem de uma aplicação entre clientes e clínicas...
-Projeto Vencedor na máteria de Desing de interação da Faculdade Cotemig!
+# Projeto Vencedor na máteria de Desing de interação da Faculdade Cotemig!
 
-
+Trabalho Realizado para prototipagem de uma aplicação entre clientes e clínicas, somente com HTML e CSS... 
 
 [Figma do projeto](https://www.figma.com/file/UjwrB9AlwKqRkwOyVvlSK6/Prototipo_SPRINT%233-(Patricia)?node-id=0%3A1)
 
