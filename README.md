@@ -1,4 +1,4 @@
-# Projeto Vencedor na máteria de Desing de interação da Faculdade Cotemig!
+# Projeto Vencedor na máteria de Design de interação da Faculdade Cotemig!
 
 Trabalho Realizado para prototipagem de uma aplicação entre clientes e clínicas, somente com HTML e CSS... 
 
